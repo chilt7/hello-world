@@ -1,2 +1,4 @@
 # hello-world
-Basic Hello World
+Hello World!
+
+I'm a senior student who enjoys technology and making music
